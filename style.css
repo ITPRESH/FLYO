@@ -153,9 +153,15 @@ body{
     color:white;
 }
 
-#inputid{
+/* #inputid{
     padding:15px 100px;
     border-radius: 30px;
+} */
+
+.btndiv input[type=text] {
+    padding: 15px 20px;
+    border-radius: 30px ;
+    width: 70%;
 }
 
 
@@ -182,11 +188,13 @@ footer{
     margin:20px;
     font-size:20px;
     color:white;
+    align-items: center;
 }
 
 #loremdiv{
     display: flex;
     width:20%;
+    align-items: center;
 }
 #location{
     margin-right:20px;
