@@ -1,0 +1,207 @@
+body{
+    background-color: rgb(15, 13, 33);
+    color:white;
+}
+
+.header-div{
+    display:flex;
+    justify-content:space-between;
+    margin: 60px 100px;
+    align-items: center;
+}
+.logo-img{
+    width:80px;
+    height: 70px;
+    margin-right:10px;
+    background-color: transparent;
+    
+
+}
+
+.logodiv{
+    display: flex;
+    font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+   font-size:30px;
+   align-items: center;
+   margin-left:100px;
+  
+}
+
+.list-div a{
+    margin-right:50px;
+    font-size:18px;
+    color:gray;
+    text-decoration: none;
+}
+.middle-div{
+    text-align:center;
+    font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+   font-size:20px;
+}
+#midh1{
+    margin:50px;
+}
+#midh5{
+    font-weight: 400;
+    letter-spacing:1px;
+}
+
+#midbtn{
+    padding:15px 80px;
+    background-color: rgb(80, 186, 186);
+    border-radius: 30px;
+    color:white;
+    font-size: 15px;
+}
+
+.fav-container{
+    display:flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin:  50px 100px;
+}
+
+.secondmidiv{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+   font-size:20px;
+   width:80%;
+   margin:auto 80px;
+}
+
+
+.secdiv{
+    text-align:left;
+}
+.downimg{
+    width:700px;
+}
+
+#anchid{
+    color:aqua;
+}
+
+.quote-container{
+    display: flex;
+    justify-content: space-around;
+    border: 10px;
+    margin:-60px 100px 200px 150px;
+
+}
+
+.quote-container img{
+    width:50px;
+    border-radius: 80%;
+}
+
+
+.innerdiv{
+    display: flex;
+    align-items: center;
+}
+
+.innerdiv h6{
+    margin:0px;
+}
+
+.innerdiv h5{
+    margin:5px;
+}
+
+#apostrophe{
+    font-size:110px;
+    margin:auto 200px;
+    color: aqua;
+}
+
+.quote{
+    background-color: rgb(45, 40, 90);
+    padding:8px 15px;
+    border-radius: 10px;
+}
+
+.near-footer{
+    text-align: center;
+    margin: -100px 300px;
+   padding:40px;
+   border-radius: 10px;
+   background-color: rgb(7, 2, 59);
+   z-index: 5000;
+    position: relative;
+   
+}
+
+.btndiv{
+    margin:20px;
+}
+
+#btndivv{
+    padding:15px;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 30px;
+    background-color: rgb(13, 184, 184);
+    color:white;
+}
+
+#inputid{
+    padding:15px 100px;
+    border-radius: 30px;
+}
+
+
+footer{
+    background-color: rgb(4, 2, 19);
+}
+
+.footer-div{
+    padding:10px;
+    display:flex;
+    justify-content: space-around;
+    margin:auto 0px;
+    align-items:center;    
+}
+
+#lastlogo{
+
+    padding-top:100px;
+}
+
+.footer-div a{
+    display:block;
+    text-decoration: none;
+    margin:20px;
+    font-size:20px;
+    color:white;
+}
+
+#loremdiv{
+    display: flex;
+    width:20%;
+}
+#location{
+    margin-right:20px;
+}
+
+.contactdiv h5{
+    margin-left:10px;
+}
+.phone{
+    display: flex;
+    align-items: center;
+    }
+
+.email{
+        display: flex;
+        align-items: center;
+
+    }
